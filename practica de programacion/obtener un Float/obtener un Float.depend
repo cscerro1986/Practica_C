@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537655434 source:c:\users\santiago\desktop\practica de programacion\obtener un float\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+
+1537726374 source:c:\users\santiago\desktop\practica de programacion\obtener un float\float.c
+	<stdio.h>
+	<stdlib.h>
+

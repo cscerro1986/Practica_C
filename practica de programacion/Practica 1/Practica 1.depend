@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537750201 source:c:\users\santiago\desktop\practica de programacion\practica 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_biblioteca.h"
+
+1537750113 source:c:\users\santiago\desktop\practica de programacion\practica 1\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+
+1537749270 c:\users\santiago\desktop\practica de programacion\practica 1\utn_biblioteca.h
+
